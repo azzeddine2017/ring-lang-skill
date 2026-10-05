@@ -111,8 +111,3 @@ Ring 1.26 handles UTF-8 literals correctly:
 ```
 No extra encoding needed, but keep file UTF-8 without BOM.
 
-## 6. User Preference (Azzeddine)
-
-- Chats in Arabic, skills/code/comments in English
-- Wants honest progress, `1-2 trials + report`, no wandering ("لا تتوه")
-- Temp files must be deleted after verification
